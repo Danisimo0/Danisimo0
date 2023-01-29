@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+name+is+Danil)]
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+name+is+Danil)]
 ### Hi there 👋
 
 <!--
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Danisimo0)](https://github.com/anuraghazra/github-readme-stats)
+ 
