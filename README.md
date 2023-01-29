@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My name is Danil)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+name+is+Danil)]
 ### Hi there 👋
 
 <!--
