@@ -1,3 +1,5 @@
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My name is Danil)]
 ### Hi there 👋
 
 <!--
@@ -14,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+ 
