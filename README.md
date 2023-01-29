@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danisimo0&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danisimo0&count_private=true&theme=midnight-purple)
