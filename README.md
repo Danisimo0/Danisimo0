@@ -13,8 +13,8 @@
  ### - Learning: 
  #### React, Java, Tailwind
  ### **- Contact ME:**
- <a href= "@Bloody_Night_Rain">
- <img align="left" alt="Telegram" width="60" hight="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS39_8EZwT3s6ZlXWxu-tW_ux0N6b4iXOdD1w&usqp=CAU"/>
+ 
+ <img align="left" alt="Telegram" width="60" hight="100" src="![photo_5215300233037204727_y](https://github.com/Danisimo0/Danisimo0/assets/105702087/7e81b24b-3653-41e1-b762-4b287719c5c1)"/>
  
  #### <a href="dvassilec655@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
