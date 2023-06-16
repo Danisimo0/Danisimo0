@@ -16,8 +16,7 @@
  
  #### dvassilec655@gmail.com
  <a href= "blob:https://xn--80affa3aj0al.xn--80asehdb/232be427-3346-45aa-b6d4-0cc707365463"><img align="left" alt="Telegram" width="60" hight="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS39_8EZwT3s6ZlXWxu-tW_ux0N6b4iXOdD1w&usqp=CAU"/></a>
-  
- 
+   <a href="blob:https://xn--80affa3aj0al.xn--80asehdb/232be427-3346-45aa-b6d4-0cc707365463"><[img src="image/fox.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS39_8EZwT3s6ZlXWxu-tW_ux0N6b4iXOdD1w&usqp=CAU)" alt="Лиса"></a>
  
  
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
