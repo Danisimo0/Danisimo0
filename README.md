@@ -13,11 +13,13 @@
  ### - Learning: 
  #### React, Java, Tailwind
  ### **- Contact ME:**
- 
- #### dvassilec655@gmail.com
- <a href= "blob:https://xn--80affa3aj0al.xn--80asehdb/232be427-3346-45aa-b6d4-0cc707365463"><img align="left" alt="Telegram" width="60" hight="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS39_8EZwT3s6ZlXWxu-tW_ux0N6b4iXOdD1w&usqp=CAU"/></a>
 
-<a href="blob:https://xn--80affa3aj0al.xn--80asehdb/232be427-3346-45aa-b6d4-0cc707365463"><img src="image/fox.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS39_8EZwT3s6ZlXWxu-tW_ux0N6b4iXOdD1w&usqp=CAU)" alt="1"></a>
- 
+<a href="dvassilec655@gmail.com">
+	<img  alt="Gmail" width="140"  src="https://github.com/Danisimo0/Danisimo0/blob/main/image/gmail.png">
+</a>
+
+<a href="https://github.com/Danisimo0/Danisimo0/blob/main/image/telegram_QR.jpg">
+	<img align="left" alt="Telegram" width="60" hight="100" src="https://github.com/Danisimo0/Danisimo0/blob/main/image/telegram_icon.png">
+</a>
  
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
