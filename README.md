@@ -14,10 +14,7 @@
  #### React, Java, Tailwind
  ### **- Contact ME:**
  
- #### <a href="dvassilec655@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="[![image](https://github.com/Danisimo0/Danisimo0/assets/105702087/0cdd8be2-eaaf-4608-a427-21fb6450eb02)](https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png)" />
-</a>
- 
+ #### dvassilec655@gmail.com
  
  
  
