@@ -2,7 +2,7 @@
 
 ## About ME 💬 :  
 
-### - **I am a beginner programmer from Kazakhstan (Almaty), who is 17 years old**
+
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/Ut1EdX0r6soAAAAC/code-monkey-checkmate-digital.gif">
  
